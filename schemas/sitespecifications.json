@@ -1,0 +1,38 @@
+{
+  "types": [
+    {
+      "code": "CV",
+      "description": "Copyright protected Video files"
+    },
+    {
+      "code": "CI",
+      "description": "Copyright protected Image files"
+    },
+    {
+      "code": "LM",
+      "description": "Media of any format protected by a Licence"
+    },
+    {
+      "code": "LS",
+      "description": "Softwares protected by a Licence"
+    },
+    {
+      "code": "HM",
+      "description": "Hosting of pirated content"
+    },
+    {
+      "code": "AP",
+      "description": "Provision of access to pirated content that is hosted elsewhere"
+    }
+  ],
+  "levels": [
+    {
+      "code": "1",
+      "description": "The website or webpage needs to completely removed or blocked from access"
+    },
+    {
+      "code": "2",
+      "description": "The website must remove all pirated content"
+    }
+  ]
+}
